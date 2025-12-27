@@ -14,32 +14,6 @@ It demonstrates my progression from **SQL fundamentals** to **advanced analytics
 
 ---
 
-## 🗂 Repository Structure & Topics
-
-### 🟢 Beginner
-Fundamental SQL concepts and syntax.
-
-- `Beginner - Select Statement.sql`
-- `Beginner - Where Statement.sql`
-- `Beginner - Group By + Order By.sql`
-- `Beginner - Having vs Where.sql`
-- `Beginner - Limit and Aliasing.sql`
-- `Beginner - Parks_and_Rec_Create_db.sql`
-
----
-
-### 🟡 Intermediate
-More complex querying and analytical techniques.
-
-- `Intermediate - Joins.sql`
-- `Intermediate - Case Statements.sql`
-- `Intermediate - String Functions.sql`
-- `Intermediate - Subqueries.sql`
-- `Intermediate - Unions.sql`
-- `Intermediate - Window Functions.sql`
-
----
-
 ### 🔵 Advanced
 Advanced SQL features used in real-world applications.
 
